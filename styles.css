@@ -1,0 +1,13 @@
+#Title {
+    text-align: center;
+    background-color: yellow;
+    font-size: 50px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.img {
+    width: 1000px;
+    height: auto;
+}
